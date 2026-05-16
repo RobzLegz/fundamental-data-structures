@@ -16,7 +16,7 @@
 Programming: ✅
 1.Implement a BST with insert, search, and in-order traversal.
 
-Programming:
+Programming: ✅
 1.Implement a graph using an adjacency matrix and perform BFS and DFS.
 2.Implement a graph using an adjacency list and perform BFS and DFS.
 
