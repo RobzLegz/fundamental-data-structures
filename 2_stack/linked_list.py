@@ -3,14 +3,16 @@ class Node:
         self.data = data
         self.next = None
 
-    def print(self):
-        print({"data": self.data, "next": self.next})
+    def get_printable(self):
+        printable = {"data": self.data}
+        if self.next is not None:
+            printable["next"] = self.next.data
+        return printable
 
 stack = []
 
 def print_stack():
-    for node in stack:
-        node.print()
+    print([node.get_printable() for node in stack])
 
 while True:
     print("")
@@ -50,7 +52,7 @@ while True:
 
     elif choice == 3:
         if len(stack) > 0:
-            stack[-1].print()
+            print(stack[-1].get_printable())
         else:
             print("Stack is empty")
 
