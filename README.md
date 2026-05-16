@@ -13,7 +13,7 @@
 Programming: ✅
 1.Implement a singly linked list with operations: insert at head, insert at tail, delete a node, and display.
 
-Programming:
+Programming: ✅
 1.Implement a BST with insert, search, and in-order traversal.
 
 Programming:
