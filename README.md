@@ -10,7 +10,7 @@
 1.Implement a queue using an array with enqueue, dequeue, and peek operations.
 2.Implement a queue using a linked list with the same operations.
 
-Programming:
+Programming: ✅
 1.Implement a singly linked list with operations: insert at head, insert at tail, delete a node, and display.
 
 Programming:
