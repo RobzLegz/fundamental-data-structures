@@ -27,7 +27,7 @@
 1.Implement an array-based list with basic operations.
 2.Implement a binary tree with basic operations to illustrate non-linear data structures.
 
-Programming:
+Programming: ✅
 1.Write a program that uses primitive data types to perform basic calculations.
 2.Write a program using non-primitive data structures like arrays or lists to store and manipulate multiple values.
 
