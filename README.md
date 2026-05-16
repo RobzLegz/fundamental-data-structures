@@ -31,11 +31,11 @@
 1.Write a program that uses primitive data types to perform basic calculations.
 2.Write a program using non-primitive data structures like arrays or lists to store and manipulate multiple values.
 
-Programming:
+Programming: ✅
 1.Write a program to demonstrate an O(n) algorithm (linear search).
 2.Write a program to demonstrate an O(n²) algorithm (bubble sort).
 
-Programming:
+Programming: ✅
 1.Implement a problem using an array (e.g., storing student marks) and explain why it is suitable.
 2.Implement the same problem using a linked list and compare the advantages/disadvantages.
 
