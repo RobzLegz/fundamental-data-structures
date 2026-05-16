@@ -20,10 +20,10 @@
 1.Implement a graph using an adjacency matrix and perform BFS and DFS.
 2.Implement a graph using an adjacency list and perform BFS and DFS.
 
-Programming:
+Programming: ✅
 1.Implement a hash table in your program.
 
-Programming:
+Programming: ✅
 1.Implement an array-based list with basic operations.
 2.Implement a binary tree with basic operations to illustrate non-linear data structures.
 
